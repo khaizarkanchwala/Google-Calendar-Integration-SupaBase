@@ -70,4 +70,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-###You need to create a SupaBase account and create a project and connect your google api to supaBase
+### You need to create a SupaBase account and create a project and connect your google api to supaBase
